@@ -1,10 +1,13 @@
 # My Python Practice
+The repository contains simple python programs for basic practice.In this lab, I turn mathematical concepts into code to build a strong foundation for my future in Data science.Each script represents a step forward in my learning journey.
 
-The repository contains simple python programs for basic practice.
-
-How to run code:
-
-1. Download or clone this repository.
-2. Install 𝙋𝙮𝙩𝙝𝙤𝙣 on your device.
-3. Run the script using: 
-Python file_name.py
+# What's inside?
+* Basic Python scripts and logic building.
+* Mathemathical algorithms and practice.
+* My progress toward becoming a data scientist.
+   
+# How to run code:
+* Download or clone this repository.
+* Install 𝙋𝙮𝙩𝙝𝙤𝙣 on your device.
+* Run the script using: 
+  Python file_name.py
